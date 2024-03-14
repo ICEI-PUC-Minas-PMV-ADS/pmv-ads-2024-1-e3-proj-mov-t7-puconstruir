@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# PUConstruir
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
+`Turma 07 - Grupo 01`
 
-`SEMESTRE`
+`2024-2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Uma aplicação simples e intuitiva para calcular a quantidade e custo dos materiais necessários para pequenas construções e reformas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Camyla Gomes Soares Oliveira 
+* Gabriel Coutinho Rolim 
+* Gabriela Franklin Sá de Moura 
+* Lucas Campos de Abreu
+* Rafael Costa Souza
+* Willams Andrade Lima
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 
