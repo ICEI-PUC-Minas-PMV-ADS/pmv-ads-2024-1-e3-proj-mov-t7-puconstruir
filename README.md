@@ -12,7 +12,7 @@ Uma aplicação simples e intuitiva para calcular a quantidade e custo dos mater
 ## Integrantes
 
 * Camyla Gomes Soares Oliveira 
-* Gabriel Coutinho Rolim 
+* Gabriel Coutinho Rolim   
 * Gabriela Franklin Sá de Moura 
 * Lucas Campos de Abreu
 * Rafael Costa Souza
