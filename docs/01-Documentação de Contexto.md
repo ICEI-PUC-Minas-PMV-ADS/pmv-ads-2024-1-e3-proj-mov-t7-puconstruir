@@ -1,4 +1,4 @@
-# Introdução
+# Introdução 
 
 &emsp;No cenário da construção civil e reformas, é essencial contar com ferramentas eficientes para o planejamento e a gestão de obras. Nesse contexto, o desenvolvimento de um sistema para auxiliar pedreiros e pequenos empreendedores na previsão de materiais e custos se mostra fundamental. Esse software pode revolucionar a forma como esses profissionais realizam suas atividades, trazendo mais eficiência e economia para seus projetos. 
 
