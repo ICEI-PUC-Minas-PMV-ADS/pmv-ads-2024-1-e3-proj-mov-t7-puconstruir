@@ -22,7 +22,7 @@
 
 ## Objetivos
 
-&emsp;Desenvolver uma aplicação simples e intuitiva para calcular a quantidade e custo dos materiais necessários para pequenas construções e reformas.
+&emsp;Desenvolver uma aplicação simples e intuitiva para orçamentação de pequenas construções e reformas.
 
 <!--Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
 
@@ -35,7 +35,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 &emsp;Hoje, a maioria das soluções para a simulação do custo de obras e seus insumos têm como público-alvo grandes empreiteiras e construtoras, o que deixa uma lacuna aberta para micro ou pequenos empreendedores do ramo da construção e reforma, além dos próprios clientes que gostariam de dados mais precisos para se organizarem melhor com relação a obra que pensam em realizar. 
 
-&emsp;Diariamente, os profissionais de menor porte precisam fazer simulações e orçamentos para seus clientes, mas acabam repassando um planejamento distante da realidade. A falta de orçamentos precisos acarreta prejuízos para ambas as partes envolvidas nestes projetos. 
+&emsp;Diariamente, os profissionais de menor porte precisam fazer simulações e orçamentos para seus clientes, mas acabam repassando um planejamento distante da realidade. A falta de orçamentos precisos acarreta prejuízos para ambas as partes envolvidas nestes projetos.  
 
 &emsp;Para o cliente, a ineficiência de um planejamento orçamentário preciso pode causar atrasos nas construções e reformas por falta de recursos. Por outro lado, pedreiros e empreendedores tem que arcar com prejuízos por um mal planejamento, como por exemplo, em serviços por empreitada. 
 
