@@ -72,20 +72,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Micro/Pequeno empreendedor no ramo da construção civil| Criar orçamentos mais precisos para meus clientes. |Diminuir a taxa de reclamações e perda de clientes, bem como reduzir os eventuais prejuízos em empreitadas|
 |Dono de imóvel/Locatário|Realizar uma construção/reforma em minha residência, e necessito de um orçamento preciso| Um bom planejamento financeiro, evitando custos adicionais e eventuais atrasos na minha obra|
 
-<!--Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/) -->
-
 ## Modelagem do Processo de Negócio 
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. <!--Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada. -->
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
@@ -98,6 +89,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-05| (O usuário deve conseguir) criar e gerenciar dados dos projetos (um ou mais serviços e/ou materiais) | ALTA |
 |RF-06| (O usuário deve conseguir) criar e gerenciar orçamentos (um ou mais projetos) |ALTA|
 |RF-07| (O usuário deve conseguir) exportar orçamentos nos formatos PDF e xls(x) | BAIXA |
+|RF-08| (O usuário deve conseguir) acessar orçamentos previamente gerados | MÉDIA |
 
 ### Requisitos não Funcionais
 
