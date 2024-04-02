@@ -89,7 +89,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-05| (O usuário deve conseguir) criar e gerenciar dados dos projetos (um ou mais serviços e/ou materiais) | ALTA |
 |RF-06| (O usuário deve conseguir) criar e gerenciar orçamentos (um ou mais projetos) |ALTA|
 |RF-07| (O usuário deve conseguir) exportar orçamentos nos formatos PDF e xls(x) | BAIXA |
-|RF-08| (O usuário deve conseguir) acessar orçamentos previamente gerados | MÉDIA |
 
 ### Requisitos não Funcionais
 
