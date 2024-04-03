@@ -49,7 +49,9 @@ etiquetas:
 
 &emsp;O Scrum é uma metodologia ágil de adaptação contínua. Neste projeto e de acordo com o Scrum, o projeto é dividido em sprints, que tem curta duração. Em cada sprint, a equipe define as tarefas e trabalha em conjunto até a entrega. Reuniões constantes são realizadas para alinhamento do que está sendo trabalhado e entregas.
 
-&emsp;Para este projeto, as sprints têm duração de uma Etapa. Na metodologia Scrum, um quadro Kanban é utilizado como ferramenta visual para gerenciar tarefas e fluxos de trabalho.
+&emsp;Para este projeto, as sprints têm duração de uma Etapa. Na metodologia Scrum, um quadro Kanban foi utilizado como ferramenta visual para gerenciar tarefas e fluxos de trabalho, e para as Sprints 1 e 2, pode ser encontrado abaixo:
+
+
 
 ### Ferramentas
 
