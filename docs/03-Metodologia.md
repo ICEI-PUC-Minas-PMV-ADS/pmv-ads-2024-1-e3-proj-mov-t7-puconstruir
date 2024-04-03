@@ -51,7 +51,7 @@ etiquetas:
 
 &emsp;Para este projeto, as sprints têm duração de uma Etapa. Na metodologia Scrum, um quadro Kanban foi utilizado como ferramenta visual para gerenciar tarefas e fluxos de trabalho, e para as Sprints 1 e 2, pode ser encontrado abaixo:
 
-
+![Kanban Sprint 1 e 2](img/Kanban/Kanbam_E1%20%26%20E2.png)
 
 ### Ferramentas
 
