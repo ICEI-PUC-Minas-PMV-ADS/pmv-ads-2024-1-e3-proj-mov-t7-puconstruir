@@ -17,7 +17,7 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
-> - [Wireframe interativo (Protótipo)]([https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects](https://www.figma.com/proto/FiJ2GwB8jzzmM2weD3l7Fy/Untitled?type=design&node-id=15-1526&t=xXq4yHh9hKofckCe-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A1565))
+> - [Wireframe interativo (Protótipo)](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects](https://www.figma.com/proto/FiJ2GwB8jzzmM2weD3l7Fy/Untitled?type=design&node-id=15-1526&t=xXq4yHh9hKofckCe-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A1565/)
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
