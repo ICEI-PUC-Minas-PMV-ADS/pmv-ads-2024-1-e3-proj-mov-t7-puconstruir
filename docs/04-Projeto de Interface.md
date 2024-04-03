@@ -11,13 +11,13 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
 
-![Diagrama de Fluxo PUConstruir](https://www.figma.com/proto/FiJ2GwB8jzzmM2weD3l7Fy/Untitled?type=design&node-id=15-1526&t=xXq4yHh9hKofckCe-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A1565)
+![Diagrama de Fluxo PUConstruir](img/diagramas/FlowDiagram_PUConstruir.jpeg)
 
 ## Wireframes
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
-> - [Wireframe interativo (Protótipo)](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
+> - [Wireframe interativo (Protótipo)]([https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects](https://www.figma.com/proto/FiJ2GwB8jzzmM2weD3l7Fy/Untitled?type=design&node-id=15-1526&t=xXq4yHh9hKofckCe-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A1565))
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
