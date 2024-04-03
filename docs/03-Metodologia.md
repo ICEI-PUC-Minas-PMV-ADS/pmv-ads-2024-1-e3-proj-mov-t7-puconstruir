@@ -41,7 +41,7 @@ etiquetas:
 &emsp;A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte forma:
 - Scrum Master: Lucas Campos de Abreu;
 - Product Owner: Rafael Costa Souza;
-- Equipe de Desenvolvimento: **Lucas Campos de Abreu** , **Rafael Costa Souza**, Camyla Gomes Soares Oliveira, Gabriel Coutinho Rolim, Gabriela Franklin Sá de Moura e Willams Andrade Lima;
+- Equipe de Desenvolvimento: **Lucas Campos de Abreu** ,**Rafael Costa Souza**, Camyla Gomes Soares Oliveira, Gabriel Coutinho Rolim, Gabriela Franklin Sá de Moura e Willams Andrade Lima;
 - Kanban Manager: Gabriela Franklin Sá de Moura e Willams Andrade Lima;
 - Edição de imagem, brand e vídeo: amyla Gomes Soares Oliveira e Gabriel Coutinho Rolim
 
